@@ -8,8 +8,9 @@ The goal was to understand how employees are working across different days and i
 ---
 
 ## Dashboard Preview
-![Dashboard](https://drive.google.com/file/d/1Y8qt-5jnWuTopDNHxltac5f740ntppHi/view?usp=drive_link)
 
+View the dashboard image here:  
+[Click to view dashboard](https://drive.google.com/file/d/1Y8qt-5jnWuTopDNHxltac5f740ntppHi/view?usp=drive_link)
 ---
 
 ## Key Metrics
