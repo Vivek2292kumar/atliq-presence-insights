@@ -10,7 +10,7 @@ The goal was to understand how employees are working across different days and i
 ## Dashboard Preview
 
 View the dashboard image here:  
-[Click to view dashboard](https://drive.google.com/file/d/1Y8qt-5jnWuTopDNHxltac5f740ntppHi/view?usp=drive_link)
+[Click to view dashboard](https://drive.google.com/file/d/1Y8qt-5jnWuTopDNHxltac5f740ntppHi/view?usp=sharing)
 ---
 
 ## Key Metrics
