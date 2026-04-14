@@ -8,7 +8,7 @@ The goal was to understand how employees are working across different days and i
 ---
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](https://drive.google.com/file/d/1Y8qt-5jnWuTopDNHxltac5f740ntppHi/view?usp=drive_link)
 
 ---
 
